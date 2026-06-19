@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/Administrator1/Vivado/Microblaze/1/clock_divider/clock_divider.srcs/constrs_1/new/constraints.xdc rfile:../../../clock_divider.srcs/constrs_1/new/constraints.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN K17 [get_ports clk]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN M14 [get_ports led]
